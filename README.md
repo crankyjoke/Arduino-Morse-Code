@@ -1,0 +1,1 @@
+A morse code machine build with arduino that can display 0-9 on a segment led display and a-z 0-9 on Serial port in Arduino IDE. A variable resistor is used to adjust the time that distinguishes dot and lines
